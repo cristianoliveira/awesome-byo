@@ -17,8 +17,9 @@ Because there is no better way to learn things than *building your own* version 
   
 ## Software Development
 
-  - [BYO Indexed Database](https://www.codeproject.com/Articles/1029838/Build-Your-Own-Database) - Build a simple database using B-tree algorithms for searching plus learn how indexes work. 
-  
+  - [BYO Browser Engine](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html) - Understand what happens inside a browser engine like Blink, Gecko, WebKit and Servo plus build your very own from scratch.
+
+  - [BYO Indexed Database](https://www.codeproject.com/Articles/1029838/Build-Your-Own-Database) - Build a simple database using B-tree algorithms for searching plus learn how indexes work.
   
   - [BYO NoSQL](https://medium.com/@marceloboeira/why-you-should-build-your-own-nosql-database-9bbba42039f5) - Learn the fundamentals and how simple key-value databases work plus build your very own NoSQL database.
   
