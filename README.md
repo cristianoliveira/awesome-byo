@@ -29,6 +29,8 @@ Because there is no better way to learn things than *building your own* version 
 
   - [BYO webserver](https://ruslanspivak.com/lsbaws-part1/) - Step by step learn how to build a web server from scratch.
   
+  - [BYO Router](https://vluxe.io/golang-router.html) - Build your own Router (also known as a mux) in Go like many frameworks implement out there.
+  
 -----
 
 # License   [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
