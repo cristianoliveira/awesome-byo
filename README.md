@@ -22,6 +22,8 @@ Because there is no better way to learn things than *building your own* version 
   
   - [BYO NoSQL](https://medium.com/@marceloboeira/why-you-should-build-your-own-nosql-database-9bbba42039f5) - Learn the fundamentals and how simple key-value databases work plus build your very own NoSQL database.
   
+  - [BYO Nginx](http://www.gilesthomas.com/2013/08/writing-a-reverse-proxyloadbalancer-from-the-ground-up-in-c-part-0/) - A serie of posts explaining how to build a reverse proxy/loadbalancer like Nginx in C.
+  
   - [BYO Router](https://vluxe.io/golang-router.html) - Build your own Router (also known as a mux) in Go like many frameworks implement out there.
 
   - [BYO Webserver](https://ruslanspivak.com/lsbaws-part1/) - Step by step learn how to build a web server from scratch.
