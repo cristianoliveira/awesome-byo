@@ -14,6 +14,10 @@ Because there is no better way to learn things than *building your own* version 
   - [BYO Lisp](http://www.buildyourownlisp.com/contents) - Learn the C programming language and at the same time learn how to build your very own programming language.
   
   - [BYO Pascal](https://ruslanspivak.com/lsbasi-part1/) - Build your own simple Pascal interpreter using python.
+  
+## Software Development
+
+  - [BYO NoSQL](https://medium.com/@marceloboeira/why-you-should-build-your-own-nosql-database-9bbba42039f5) - Learn the fundamentals and how simple key-value databases work plus build your very own NoSQL database.
 
 ## System Tools
 
