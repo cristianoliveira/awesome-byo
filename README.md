@@ -31,7 +31,9 @@ Because there is no better way to learn things than *building your own* version 
     
 ## System
   
-  - [BYO Operatinal System](https://github.com/cfenollosa/os-tutorial) - Learn how to build from scratch step by step your own Operation System Unix like.
+  - [BYO Kernel](http://wiki.osdev.org/C%2B%2B_Bare_Bones) Tutorial to write a simple kernel for 32-bit x86 and boot it. This is the first step in creating your own operating system.
+  
+  - [BYO Operating System](https://github.com/cfenollosa/os-tutorial) - Learn how to build from scratch step by step your own Operating System Unix like.
 
   - [BYO Shell](https://brennan.io/2015/01/16/write-a-shell-in-c/) - It is a walkthrough on how to write your own simplistic Unix shell in C.
 
