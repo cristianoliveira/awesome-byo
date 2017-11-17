@@ -17,23 +17,24 @@ Because there is no better way to learn things than *building your own* version 
   
 ## Software Development
 
+  - [BYO Indexed Database](https://www.codeproject.com/Articles/1029838/Build-Your-Own-Database) - Build a simple database using B-tree algorithms for searching plus learn how indexes work. 
+  
+  
   - [BYO NoSQL](https://medium.com/@marceloboeira/why-you-should-build-your-own-nosql-database-9bbba42039f5) - Learn the fundamentals and how simple key-value databases work plus build your very own NoSQL database.
+  
+  - [BYO Router](https://vluxe.io/golang-router.html) - Build your own Router (also known as a mux) in Go like many frameworks implement out there.
 
+  - [BYO Webserver](https://ruslanspivak.com/lsbaws-part1/) - Step by step learn how to build a web server from scratch.
+    
 ## System Tools
 
   - [BYO shell](https://brennan.io/2015/01/16/write-a-shell-in-c/) - It is a walkthrough on how to write your own simplistic Unix shell in C.
 
   - [BYO Text Editor](https://viewsourcecode.org/snaptoken/kilo/) - This booklet walks you through building the editor in 184 steps. Each step, you’ll add, change, or remove a few lines of code.
   
-## Tools
+## Other Tools
 
   - [BYO Calculator](https://www.freecodecamp.org/challenges/build-a-javascript-calculator) -  Serie of videos for building a calculator using Javascript.
-  
-## Web
-
-  - [BYO webserver](https://ruslanspivak.com/lsbaws-part1/) - Step by step learn how to build a web server from scratch.
-  
-  - [BYO Router](https://vluxe.io/golang-router.html) - Build your own Router (also known as a mux) in Go like many frameworks implement out there.
   
 -----
 
