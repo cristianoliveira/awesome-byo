@@ -7,7 +7,7 @@ Because there is no better way to learn things than *building your own* version 
 
 ## Games
 
-  - [BYO Tic Tac Toe](https://medium.com/front-end-hacking/tic-tac-toe-javascript-game-b0cd6e98edd9) - Build your own Tic Tac Toe game and with a very simple AI allowing to play the game against the computer.
+  - [BYO Tic Tac Toe](https://medium.com/front-end-hacking/tic-tac-toe-javascript-game-b0cd6e98edd9) - Build your own Tic Tac Toe game and with a very simple AI allowing to play the game against the computer.
 
 ## Programming Languages
 
