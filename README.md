@@ -15,7 +15,11 @@ Because there is no better way to learn things than *building your own* version 
 
   - [BYO shell](https://brennan.io/2015/01/16/write-a-shell-in-c/) - It is a walkthrough on how to write your own simplistic Unix shell in C.
 
-  - [BYO Text Editor](https://viewsourcecode.org/snaptoken/kilo/) - This booklet walks you through building the editor in 184 steps. Each step, you’ll add, change, or remove a few lines of code. 
+  - [BYO Text Editor](https://viewsourcecode.org/snaptoken/kilo/) - This booklet walks you through building the editor in 184 steps. Each step, you’ll add, change, or remove a few lines of code.
+  
+## Tools
+
+  - [BYO Calculator](https://www.freecodecamp.org/challenges/build-a-javascript-calculator) -  Serie of videos for building a calculator using Javascript.
   
 ## Web
 
