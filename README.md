@@ -1,7 +1,7 @@
 # awesome-diy [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![CodeOfConduct](https://img.shields.io/badge/code%20of%20conduct-1.3.0-ff69b4.svg)](http://contributor-covenant.org/version/1/3/0/)
 A curated list of open content for building your own sth.
 
-Because there is no better way to learn things than *building your own* version of that thing. *BYO for short.*
+Because there is no better way to really understand how something works than *building your own* version of that thing. **BYO for short.**
 
 ----
 
