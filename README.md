@@ -31,7 +31,7 @@ Because there is no better way to really understand how something works than *bu
     
 ## System
   
-  - [BYO Kernel](http://wiki.osdev.org/C%2B%2B_Bare_Bones) Tutorial to write a simple kernel for 32-bit x86 and boot it. This is the first step in creating your own operating system.
+  - [BYO Kernel](http://wiki.osdev.org/C%2B%2B_Bare_Bones) - Tutorial to write a simple kernel for 32-bit x86 and boot it. This is the first step in creating your own operating system.
   
   - [BYO Operating System](https://github.com/cfenollosa/os-tutorial) - Learn how to build from scratch step by step your own Operating System Unix like.
 
@@ -39,9 +39,11 @@ Because there is no better way to really understand how something works than *bu
 
   - [BYO Text Editor](https://viewsourcecode.org/snaptoken/kilo/) - This booklet walks you through building the editor in 184 steps. Each step, you’ll add, change, or remove a few lines of code.
   
+  - [BYO Windows Manager](https://seasonofcode.com/posts/how-x-window-managers-work-and-how-to-write-one-part-i.html) - A series of posts that aim to demystify how window managers work and how you might go about writing one yourself. (incomplete)
+  
 ## Other Tools
 
-  - [BYO Calculator](https://www.freecodecamp.org/challenges/build-a-javascript-calculator) -  Serie of videos for building a calculator using Javascript.
+  - [BYO Calculator](https://www.freecodecamp.org/challenges/build-a-javascript-calculator) - Serie of videos for building a calculator using Javascript.
   
 -----
 
