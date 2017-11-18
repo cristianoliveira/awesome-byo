@@ -28,6 +28,8 @@ Because there is no better way to really understand how something works than *bu
   - [BYO Nginx](http://www.gilesthomas.com/2013/08/writing-a-reverse-proxyloadbalancer-from-the-ground-up-in-c-part-0/) - A serie of posts explaining how to build a reverse proxy/loadbalancer like Nginx in C.
   
   - [BYO Router](https://vluxe.io/golang-router.html) - Build your own Router (also known as a mux) in Go like many frameworks implement out there.
+  
+  - [BYO Virtual DOM](https://medium.com/@deathmood/how-to-write-your-own-virtual-dom-ee74acc13060) - Understand how the Virtual DOM works writing one version in less than ~50 lines of code. 
 
   - [BYO Webserver](https://ruslanspivak.com/lsbaws-part1/) - Step by step learn how to build a web server from scratch.
     
