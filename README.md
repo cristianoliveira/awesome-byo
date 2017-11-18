@@ -44,8 +44,11 @@ Because there is no better way to really understand how something works than *bu
   - [BYO Shell](https://brennan.io/2015/01/16/write-a-shell-in-c/) - It is a walkthrough on how to write your own simplistic Unix shell in C.
 
   - [BYO Text Editor](https://viewsourcecode.org/snaptoken/kilo/) - This booklet walks you through building the editor in 184 steps. Each step, you’ll add, change, or remove a few lines of code.
+    
+  - [BYO Virtual CPU](http://megalomaniacbore.blogspot.ch/2014/04/virtual-cpu-in-c-4001-cpu.html) - Write your own Virtual CPU in C++.
   
   - [BYO Windows Manager](https://seasonofcode.com/posts/how-x-window-managers-work-and-how-to-write-one-part-i.html) - A series of posts that aim to demystify how window managers work and how you might go about writing one yourself. (incomplete)
+
   
 ## Other Tools
 
