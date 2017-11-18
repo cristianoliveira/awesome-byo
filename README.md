@@ -35,7 +35,7 @@ Because there is no better way to really understand how something works than *bu
     
 ## System
 
-  - [BYO Container](https://www.infoq.com/articles/build-a-container-golang) - Write your own version of Linux Containers in less than 100 lines of Go.
+  - [BYO Container](https://www.infoq.com/articles/build-a-container-golang) - Write your own version of Linux Containers in less than 100 lines of Go.
 
   - [BYO Kernel](http://wiki.osdev.org/C%2B%2B_Bare_Bones) - Tutorial to write a simple kernel for 32-bit x86 and boot it. This is the first step in creating your own operating system.
   
