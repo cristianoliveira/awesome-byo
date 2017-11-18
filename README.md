@@ -35,6 +35,8 @@ Because there is no better way to really understand how something works than *bu
   
   - [BYO Kernel](http://wiki.osdev.org/C%2B%2B_Bare_Bones) - Tutorial to write a simple kernel for 32-bit x86 and boot it. This is the first step in creating your own operating system.
   
+  - [BYO QT Terminal](https://codekoalas.com/blog/build-your-own-minimal-terminal) - Tutorial of how to write a QT based terminal in C++.
+  
   - [BYO Operating System](https://github.com/cfenollosa/os-tutorial) - Learn how to build from scratch step by step your own Operating System Unix like.
 
   - [BYO Shell](https://brennan.io/2015/01/16/write-a-shell-in-c/) - It is a walkthrough on how to write your own simplistic Unix shell in C.
