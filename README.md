@@ -8,6 +8,8 @@ Because there is no better way to really understand how something works than *bu
 ## Games
 
   - [BYO Tic Tac Toe](https://medium.com/front-end-hacking/tic-tac-toe-javascript-game-b0cd6e98edd9) - Build your own Tic Tac Toe game and with a very simple AI allowing to play the game against the computer.
+  
+  - [BYO Pac man](http://www.masswerk.at/JavaPac/pacman-howto.html) - A tutorial for building a Pac Man game and while learning advanced JavaScript techniques.
 
 ## Programming Languages
 
