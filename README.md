@@ -18,7 +18,8 @@ Because there is no better way to really understand how something works than *bu
   - [BYO Pascal](https://ruslanspivak.com/lsbasi-part1/) - Build your own simple Pascal interpreter using python.
   
 ## Software Development
-
+  - [BYO Searchengine](https://youtu.be/cY7pE7vX6MU) - Build your own simple simple searchengine.
+  
   - [BYO Browser Engine](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html) - Understand what happens inside a browser engine like Blink, Gecko, WebKit and Servo plus build your very own from scratch.
 
   - [BYO Indexed Database](https://www.codeproject.com/Articles/1029838/Build-Your-Own-Database) - Build a simple database using B-tree algorithms for searching plus learn how indexes work.
