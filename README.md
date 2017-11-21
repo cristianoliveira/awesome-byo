@@ -23,6 +23,8 @@ Because there is no better way to understand how *sth* works than *building your
   
   - [BYO Pascal](https://ruslanspivak.com/lsbasi-part1/) - Build your own simple Pascal interpreter using Python.
   
+  - [BYO Python](http://www.aosabook.org/en/500L/a-python-interpreter-written-in-python.html) - Understand how bitecode works while writing a Python interpreter in Python.
+  
 ## Software Development
   - [BYO Search Engine](https://youtu.be/cY7pE7vX6MU) - Build your own simple search engine like Elasticsearch in Python.
   
