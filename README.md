@@ -7,6 +7,8 @@ Because there is no better way to really understand how something works than *bu
 
 ## Games
 
+  - [BYO Game Engine](https://www.gamasutra.com/blogs/MichaelKissner/20151027/257369/Writing_a_Game_Engine_from_Scratch__Part_1_Messaging.php) - Learn how game engines work, essential data structures and grafic manipulation while building your very own Game Engine.
+
   - [BYO Pac man](http://www.masswerk.at/JavaPac/pacman-howto.html) - A tutorial for building a Pac Man game while learning advanced JavaScript techniques.
   
   - [BYO Tic Tac Toe](https://medium.com/front-end-hacking/tic-tac-toe-javascript-game-b0cd6e98edd9) - Build your own Tic Tac Toe game and with a very simple AI allowing to play the game against the computer.
