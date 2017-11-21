@@ -1,7 +1,9 @@
 # awesome-byo [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![CodeOfConduct](https://img.shields.io/badge/code%20of%20conduct-1.3.0-ff69b4.svg)](http://contributor-covenant.org/version/1/3/0/)
 A curated list of open content for building your own *sth*.
 
-Because there is no better way to really understand how something works than *building your own* version of that thing. **BYO for short.**
+Because there is no better way to understand how *sth* works than *building your own* version of that thing. 
+
+**BYO for short**
 
 ----
 
@@ -9,26 +11,26 @@ Because there is no better way to really understand how something works than *bu
 
   - [BYO Game Engine](https://www.gamasutra.com/blogs/MichaelKissner/20151027/257369/Writing_a_Game_Engine_from_Scratch__Part_1_Messaging.php) - Learn how game engines work, essential data structures and grafic manipulation while building your very own Game Engine.
 
-  - [BYO Pac man](http://www.masswerk.at/JavaPac/pacman-howto.html) - A tutorial for building a Pac Man game while learning advanced JavaScript techniques.
+  - [BYO Pac man](http://www.masswerk.at/JavaPac/pacman-howto.html) - A tutorial for building a Pac Man game while learning advanced Javascript techniques.
   
   - [BYO Tic Tac Toe](https://medium.com/front-end-hacking/tic-tac-toe-javascript-game-b0cd6e98edd9) - Build your own Tic Tac Toe game and with a very simple AI allowing to play the game against the computer.
 
 ## Programming Languages
 
-  - [BYO Javascript](https://www.codeproject.com/Articles/345888/How-to-write-a-simple-interpreter-in-JavaScript) - Learn the concepts of language design while building your own very basic Javascript interpreter in Javascript. (Not turing complete)
+  - [BYO Javascript](https://www.codeproject.com/Articles/345888/How-to-write-a-simple-interpreter-in-JavaScript) - Learn the concepts of language design while building your own very basic interpreter in Javascript.
   
   - [BYO Lisp](http://www.buildyourownlisp.com/contents) - Learn the C programming language and at the same time learn how to build your very own programming language.
   
-  - [BYO Pascal](https://ruslanspivak.com/lsbasi-part1/) - Build your own simple Pascal interpreter using python.
+  - [BYO Pascal](https://ruslanspivak.com/lsbasi-part1/) - Build your own simple Pascal interpreter using Python.
   
 ## Software Development
-  - [BYO Searchengine](https://youtu.be/cY7pE7vX6MU) - Build your own simple simple searchengine.
+  - [BYO Search Engine](https://youtu.be/cY7pE7vX6MU) - Build your own simple search engine like Elasticsearch in Python.
   
   - [BYO Browser Engine](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html) - Understand what happens inside a browser engine like Blink, Gecko, WebKit and Servo plus build your very own from scratch.
 
-  - [BYO Indexed Database](https://www.codeproject.com/Articles/1029838/Build-Your-Own-Database) - Build a simple database using B-tree algorithms for searching plus learn how indexes work.
+  - [BYO Indexed Database](https://www.codeproject.com/Articles/1029838/Build-Your-Own-Database) - Build a simple database using B-tree algorithms for searching and learn how indexes work.
   
-  - [BYO NoSQL](https://medium.com/@marceloboeira/why-you-should-build-your-own-nosql-database-9bbba42039f5) - Learn the fundamentals and how simple key-value databases work plus build your very own NoSQL database.
+  - [BYO NoSQL](https://medium.com/@marceloboeira/why-you-should-build-your-own-nosql-database-9bbba42039f5) - Learn the fundamentals and how a simple key-value databases work plus build your very own NoSQL database.
   
   - [BYO Nginx](http://www.gilesthomas.com/2013/08/writing-a-reverse-proxyloadbalancer-from-the-ground-up-in-c-part-0/) - A serie of posts explaining how to build a reverse proxy/loadbalancer like Nginx in C.
   
@@ -56,10 +58,10 @@ Because there is no better way to really understand how something works than *bu
     
   - [BYO Virtual CPU](http://megalomaniacbore.blogspot.ch/2014/04/virtual-cpu-in-c-4001-cpu.html) - Write your own Virtual CPU in C++.
   
-  - [BYO Windows Manager](https://seasonofcode.com/posts/how-x-window-managers-work-and-how-to-write-one-part-i.html) - A series of posts that aim to demystify how window managers work and how you might go about writing one yourself. (incomplete)
+  - [BYO Window Manager](https://seasonofcode.com/posts/how-x-window-managers-work-and-how-to-write-one-part-i.html) - A series of posts that aim to demystify how window managers work and how you might go about writing one yourself. (incomplete)
 
   
-## Other Tools
+## Others
 
   - [BYO Calculator](https://www.freecodecamp.org/challenges/build-a-javascript-calculator) - Serie of videos for building a calculator using Javascript.
   
