@@ -25,6 +25,8 @@ Because there is no better way to understand how *sth* works than *building your
   
   - [BYO Python](http://www.aosabook.org/en/500L/a-python-interpreter-written-in-python.html) - Understand how bitecode works while writing a Python interpreter in Python.
   
+  - [BYO Scheme](https://wespiser.com/writings/wyas/00_overview.html) - Learn everything about functional programming while building your own Scheme interpreter in Haskell.
+  
 ## Software Development
   - [BYO Search Engine](https://youtu.be/cY7pE7vX6MU) - Build your own simple search engine like Elasticsearch in Python.
   
