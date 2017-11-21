@@ -1,5 +1,5 @@
-# awesome-diy [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![CodeOfConduct](https://img.shields.io/badge/code%20of%20conduct-1.3.0-ff69b4.svg)](http://contributor-covenant.org/version/1/3/0/)
-A curated list of open content for building your own sth.
+# awesome-byo [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![CodeOfConduct](https://img.shields.io/badge/code%20of%20conduct-1.3.0-ff69b4.svg)](http://contributor-covenant.org/version/1/3/0/)
+A curated list of open content for building your own *sth*.
 
 Because there is no better way to really understand how something works than *building your own* version of that thing. **BYO for short.**
 
@@ -15,6 +15,8 @@ Because there is no better way to really understand how something works than *bu
 
 ## Programming Languages
 
+  - [BYO Javascript](https://www.codeproject.com/Articles/345888/How-to-write-a-simple-interpreter-in-JavaScript) - Learn the concepts of language design while building your own very basic Javascript interpreter in Javascript. (Not turing complete)
+  
   - [BYO Lisp](http://www.buildyourownlisp.com/contents) - Learn the C programming language and at the same time learn how to build your very own programming language.
   
   - [BYO Pascal](https://ruslanspivak.com/lsbasi-part1/) - Build your own simple Pascal interpreter using python.
