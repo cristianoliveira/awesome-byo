@@ -40,6 +40,8 @@ Because there is no better way to understand how *sth* works than *building your
   
   - [BYO React](https://hackernoon.com/build-your-own-react-48edb8ed350d) - Create a full working version of react step by step in plain Javascript. 
   
+  - [BYO Regex Engine](https://www.cs.princeton.edu/courses/archive/spr09/cos333/beautiful.html) - Learn by analizing a Rob Pike's implementation of a Regex Engine and step by step build your own engine. 
+  
   - [BYO Router](https://vluxe.io/golang-router.html) - Build your own Router (also known as a mux) in Go like many frameworks implement out there.
   
   - [BYO Virtual DOM](https://medium.com/@deathmood/how-to-write-your-own-virtual-dom-ee74acc13060) - Understand how the Virtual DOM works writing one version in less than ~50 lines of code. 
